@@ -9,16 +9,15 @@ experienced developers, and contribute to impactful web solutions.
 
 
 -  Social Presence
-  <br/>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/monika-s-01709028a) <br/>
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-s-01709028a)
 
 
 ### My Tech Stack
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 
 ### Contact Me At
-<a href="mailto:monikasiva2503@gmail.com><img width="50" height="50" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/></a>
+(https://img.icons8.com/ios-glyphs/30/000000/email.png) [monikasiva2503@gmail.com](mailto:monikasiva2503@gmail.com)
 
 <!--
 **Monikasivanandam/Monikasivanandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
